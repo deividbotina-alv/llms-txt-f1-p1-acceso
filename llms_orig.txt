@@ -1,0 +1,7 @@
+# Documentation
+
+## Products
+
+- [Seguro de Vida](https://deividbotina-alv.github.io/cb-orig/): Seguro de Vida Mercado Pago Brazil
+- [Cash back](https://meubolso.mercadopago.com.br/seguro-de-vida-mercado-pago): Cash Back Mercado Pago Brazil
+- [Testing](https://docs.stripe.com/testing.md): Simulate payments to test your integration.
